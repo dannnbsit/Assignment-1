@@ -30,6 +30,23 @@ if ($age <= 17) {
     echo "Senior";
 }
 
+// Switch Statement
+$favAnimal = "cat";
+
+switch ($favAnimal) {
+
+    case "cat":
+        echo "Your favorite is cat";
+        break;
+
+    case "dog":
+        echo "Your favorite is dog";
+        break;
+
+    default:
+        echo "Input your favorite animal";
+}
+
 
 
 ?>
