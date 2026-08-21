@@ -63,4 +63,3 @@ switch ($favAnimal) {
 </body>
 </html>
 
-<!-- add to github -->
